@@ -1,19 +1,9 @@
-# 🎓 CampusConnect
-### Privacy-First AI-Powered Student Achievement & Collaboration Platform
-
-<p align="center">
-  <img src="./assets/logo.png" alt="CampusConnect Logo" width="180"/>
-</p>
-
-> **Connecting Talent. Enabling Collaboration. Building the Future of Campus Innovation.**
-
----
-
+# 🎓 TechSeek
 ## 📖 Overview
 
-CampusConnect is a next-generation campus networking platform designed to digitally connect students, faculty, research opportunities, hackathons, and institutional achievements under one secure ecosystem.
+TechSeek is a next-generation campus networking platform designed to digitally connect students, faculty, research opportunities, hackathons, and institutional achievements under one secure ecosystem.
 
-Unlike conventional professional networking platforms, CampusConnect focuses on **verified academic achievements**, **privacy-first networking**, **AI-powered matchmaking**, and **institutional collaboration**.
+Unlike conventional professional networking platforms, TechSeek focuses on **verified academic achievements**, **privacy-first networking**, **AI-powered matchmaking**, and **institutional collaboration**.
 
 The platform enables students to build a verified academic portfolio throughout their college journey while helping faculty discover talented students, create research collaborations, and simplify institutional reporting for accreditation and placements.
 
@@ -132,7 +122,7 @@ This process is repetitive and time-consuming.
 
 # 💡 Solution
 
-CampusConnect creates a verified institutional talent graph.
+TechSeek creates a verified institutional talent graph.
 
 Every achievement, project, publication, internship, and certification becomes structured, searchable data.
 
@@ -337,7 +327,7 @@ Useful for:
 
 # 🤖 AI Features
 
-CampusConnect uses AI for
+TechSeek uses AI for
 
 ### Smart Matching
 
@@ -607,15 +597,9 @@ By combining privacy, verification, AI-powered recommendations, and institutiona
 # 👥 Contributors
 
 - **Srijita Sarkar**
-- **Manas Vishnu**
+- **Maanas Vishnu**
 - **Anvita De**
-- **Shreya**
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
+- **Shreya Jayesh**
 
 ---
 
