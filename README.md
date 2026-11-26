@@ -598,7 +598,7 @@ By combining privacy, verification, AI-powered recommendations, and institutiona
 
 - **Srijita Sarkar**
 - **Maanas Vishnu**
-- **Anvita De**
+- **Anvita Dey**
 - **Shreya Jayesh**
 
 ---
